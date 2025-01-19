@@ -76,6 +76,11 @@ Worst-case number: 3
 
 ---
 
+## LinkdIn Post Link
+ [Check Here LinkdIn Post By Me](https://www.linkedin.com/posts/aleey-rizvi-724222307_python-datastructures-binarysearch-activity-7286077495416659968-79vu?utm_source=share&utm_medium=member_android)
+
+---
+
 ## **Contributing**
 Feel free to open issues or create pull requests to contribute to this project.
 
